@@ -73,6 +73,7 @@ class PaginationView extends View {
     // Page 1, and there are NO other pages
     return '';
   }
+  // nitin teri maa ki chot
 }
 
 export default new PaginationView();
